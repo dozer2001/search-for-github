@@ -1,0 +1,9 @@
+.lorem{
+  text-align: center;
+  border: 1px solid cornflowerblue;
+  margin: 35px;
+}
+.btn-center{
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
